@@ -1,7 +1,7 @@
 # pratengsw-testes
 *Código de testes (disciplina Práticas de Eng de Software)*
 
-##1) Exemplos Selenium
+## 1) Exemplos Selenium
 
 Na pasta **src/test/resources/driver/** você encontra os drivers do browser Chrome em três versões: 
 chromedriver90.exe, chromedriver91.exe, chromedriver92.exe. O driver "geckodriver.exe" é a versão 0.29 para o browser Firefox. 
